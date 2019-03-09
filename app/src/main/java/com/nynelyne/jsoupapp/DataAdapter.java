@@ -1,4 +1,4 @@
-package com.ads.agropay.jsoupapp;
+package com.nynelyne.jsoupapp;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
@@ -8,7 +8,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
